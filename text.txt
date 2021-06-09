@@ -1,0 +1,6 @@
+123456
+1234
+123
+12
+1
+-D BUFFER_SIZE = 1;  for manual definition
